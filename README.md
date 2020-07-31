@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Hi, This is Sundar 👋 🧑🏽‍💻
 
+![](https://github.com/Msundarv/Msundarv/blob/master/intro.gif)
+
 Working with computers has always been my passion, and programming is what gives my life a meaning. I love to work on Frontier Technologies like Machine Intelligence, Augmented Reality, Virtual Reality. I believe they can better serve humanity, and I want to be a part of it.
 
 ## To know more about me 🌎:
