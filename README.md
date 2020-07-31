@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Msundarv/Msundarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, This is Sundar 👋 🧑🏽‍💻
+
+Working with computers has always been my passion, and programming is what gives my life a meaning. I love to work on Frontier Technologies like Machine Intelligence, Augmented Reality, Virtual Reality. I believe they can better serve humanity, and I want to be a part of it.
+
+## To know more about me 🌎:
+- [Link](http://msundarv.com/) to my personal website 🏠
+- [LinkedIn](https://www.linkedin.com/in/msundarv) 💼 
+- [Medium](https://medium.com/@msundarv) ✍🏽
