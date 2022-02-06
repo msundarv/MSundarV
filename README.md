@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/Msundarv/Msundarv/blob/master/intro.gif)
 
-Working with computers has always been my passion, and programming is what gives my life a meaning. I love to work on Frontier Technologies involving Machine Intelligence like Natural Language Processing, Computer Vision, Time Series Analysis. I believe they can better serve humanity, and I want to be a part of it. 
+Working with computers has always been my passion, and programming is what gives my life meaning. I love to work on frontier technologies. I believe technology can better serve humanity, and I want to be a part of it. 
 
 ## To know more about me 🌎:
 - [Link](http://msundarv.com/) to my personal website 🏠
