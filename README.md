@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/Msundarv/Msundarv/blob/master/intro.gif)
 
-Working with computers has always been my passion, and programming is what gives my life meaning. I love to work on frontier technologies. I believe they can better serve humanity, and I want to be a part of it. 
+<p align="justify"> I'm a highly motivated and passionate programmer with a keen interest in using technology to make a positive impact in the world. I have a strong background in computer science and a deep passion for exploring new technologies, particularly in the field of artificial intelligence. I believe that technology has the potential to solve some of the most pressing problems facing humanity today, and I am excited to use my skills and knowledge for the same. </p>
 
 ## To know more about me 🌎:
 - [Link](http://msundarv.com/) to my personal website 🏠
