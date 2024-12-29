@@ -15,11 +15,31 @@ Here are some ideas to get you started:
 
 # Hi, This is Sundar 👋 🧑🏽‍💻
 
-![](https://github.com/Msundarv/Msundarv/blob/master/intro.gif)
+```python
+class DataScientist:
 
-<p align="justify"> I'm a highly motivated and passionate programmer with a keen interest in using technology to make a positive impact in the world. I have a strong background in computer science and a deep passion for exploring new technologies, particularly in the field of artificial intelligence. I believe that technology has the potential to solve some of the most pressing problems facing humanity today, and I am excited to use my skills and knowledge for the same. </p>
+    def __init__(self):
+        self.name = "Sundar Viswanathan"
+        self.role = "Data Science & Analytics Specialist"
+        self.company = "Philips"
+        self.ex_companies = ["Siemens", "GetVu"]
+        self.language_spoken = ["ta-IN", "en_US"]
 
-[Written in collab with ChatGPT]
+    def say_hi(self, more_info=True):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+        if more_info:
+            # Written in collab with ChatGPT
+            info = ("I'm a highly motivated and passionate programmer with a keen interest in using technology to make a positive impact in the world."
+                    "I have a strong background in computer science and a deep passion for exploring new technologies, particularly in the field of artificial intelligence."
+                    "I believe that technology has the potential to solve some of the most pressing problems facing humanity today, "
+                    "and I am excited to use my skills and knowledge for the same.")
+            print(info)
+
+
+me = DataScientist()
+me.say_hi()
+```
 
 ## To know more about me 🌎:
 - [Link](http://msundarv.com/) to my personal website 🏠
